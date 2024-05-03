@@ -11,6 +11,7 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 //节点链接 + 订阅链接
 let MainData = `
 vless://ae8dab00-f85a-45fb-98e0-3f28de3146cc@cdnyx.qianqingyu.top:443?encryption=none&security=tls&sni=cf30.qianqingyu.top&fp=chrome&type=ws&host=cf30.qianqingyu.top#cdnyx
+vless://8187887f-b152-48ce-8ab1-3b1d42687364@cdnfd.qianqingyu.top?encryption=none&security=tls&sni=cfyuan.qianqingyu.top&fp=randomized&type=ws&host=cfyuan.qianqingyu.top&path=%2F%3Fed%3D2048#CFYUAN-cdnfd
 vless://3c3bcb6b-18d3-42e5-8503-f51e3e944645@cdnyx.qianqingyu.top:443?encryption=none&security=tls&sni=test0128.qianqingyu.top&type=ws&host=test0128.qianqingyu.top&path=%2Ftest1024#test1024-cdnyx
 vless://3c3bcb6b-18d3-42e5-8503-f51e3e944645@cdnfd.qianqingyu.top:443?encryption=none&security=tls&sni=test0128.qianqingyu.top&type=ws&host=test0128.qianqingyu.top&path=%2Ftest1024#test1024-cdnfd.qianqingyu.top
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=49061e8a6cf52146ee46ffb2d65a536d
