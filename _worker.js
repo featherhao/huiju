@@ -10,9 +10,12 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 
 //节点链接 + 订阅链接
 let MainData = `
-vless://b7a392e2-4ef0-4496-90bc-1c37bb234904@cf.090227.xyz:443?encryption=none&security=tls&sni=edgetunnel-2z2.pages.dev&fp=random&type=ws&host=edgetunnel-2z2.pages.dev&path=%2F%3Fed%3D2048#%E5%8A%A0%E5%85%A5%E6%88%91%E7%9A%84%E9%A2%91%E9%81%93t.me%2FCMLiussss%E8%A7%A3%E9%94%81%E6%9B%B4%E5%A4%9A%E4%BC%98%E9%80%89%E8%8A%82%E7%82%B9
-https://sub.xf.free.hr/auto
-https://hy2sub.pages.dev
+vless://3c3bcb6b-18d3-42e5-8503-f51e3e944645@cdnyx.qianqingyu.top:443?encryption=none&security=tls&sni=test0128.qianqingyu.top&type=ws&host=test0128.qianqingyu.top&path=%2Ftest1024#test1024-cdnyx
+vless://3c3bcb6b-18d3-42e5-8503-f51e3e944645@cdnfd.qianqingyu.top:443?encryption=none&security=tls&sni=test0128.qianqingyu.top&type=ws&host=test0128.qianqingyu.top&path=%2Ftest1024#test1024-cdnfd.qianqingyu.top
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=49061e8a6cf52146ee46ffb2d65a536d
+https://dingyueqi.qianqingyu.top/sub?host=cmvless.qianqingyu.top&uuid=45785ccb-082d-49da-992e-87cc26db53e4&path=/?ed=2560
+https://cf0318.qianqingyu.top/93063e71-fa76-4e23-967d-4cad9610ade1
+
 `
 
 //请将机场订阅链接填入上方
